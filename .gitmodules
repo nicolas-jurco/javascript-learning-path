@@ -1,3 +1,6 @@
 [submodule "image-slider"]
 	path = image-slider
 	url = https://github.com/nicolas-jurco/image-slider.git
+[submodule "games"]
+	path = games
+	url = https://github.com/nicolas-jurco/games.git
