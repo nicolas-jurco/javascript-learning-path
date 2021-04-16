@@ -4,3 +4,6 @@
 [submodule "games"]
 	path = games
 	url = https://github.com/nicolas-jurco/games.git
+[submodule "algorithms"]
+	path = algorithms
+	url = https://github.com/nicolas-jurco/algorithms
