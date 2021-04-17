@@ -5,5 +5,5 @@
 	path = games
 	url = https://github.com/nicolas-jurco/games.git
 [submodule "algorithms"]
-	path = algorithms
+	path = structures
 	url = https://github.com/nicolas-jurco/algorithms
